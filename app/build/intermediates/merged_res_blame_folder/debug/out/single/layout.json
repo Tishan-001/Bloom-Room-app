@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_login.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_new_category.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_new_category.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/content_map.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/content_map.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/fragment_home.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_splash_screen.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/dialoge_edit_order_status.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/dialoge_edit_order_status.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_view_all_products.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_view_all_products.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/item_single_feedback.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/item_single_feedback.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_admin_feedback.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_admin_feedback.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/update_password_layout.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/update_password_layout.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_cart.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_reports.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_reports.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_search_filters.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_search_filters.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/dialoge_edit_feedback_status.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/dialoge_edit_feedback_status.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_admin_home.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_admin_home.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_signup_user.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_signup_user.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/item_single_feedback_admin.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/item_single_feedback_admin.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_feedbacks.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_feedbacks.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_new_offer.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_new_offer.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_customers_orders.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_customers_orders.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/item_single_order.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/item_single_order.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_add_new_feedback.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_add_new_feedback.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_main.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/content_main.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_order_details_admin.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_order_details_admin.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_event_location.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_event_location.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_check_out.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_check_out.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/single_cart_item.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/single_cart_item.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/single_product_layout.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/single_product_layout.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_new_product.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_new_product.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_product_details.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_product_details.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/app_bar_main.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/nav_header_main.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_admin_login.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_admin_login.xml"
+    },
+    {
+        "merged": "com.android.bloomroomapp-mergeDebugResources-5:/layout/activity_order_details.xml",
+        "source": "com.android.bloomroomapp-main-8:/layout/activity_order_details.xml"
+    }
+]

@@ -1,0 +1,58 @@
+com.android.bloomroomapp-google-services-0 D:\Project\LK502(3)\#2. Source code\Bloom Room App\Bloom Room App\app\build\generated\res\google-services\debug
+com.android.bloomroomapp-pngs-1 D:\Project\LK502(3)\#2. Source code\Bloom Room App\Bloom Room App\app\build\generated\res\pngs\debug
+com.android.bloomroomapp-resValues-2 D:\Project\LK502(3)\#2. Source code\Bloom Room App\Bloom Room App\app\build\generated\res\resValues\debug
+com.android.bloomroomapp-rs-3 D:\Project\LK502(3)\#2. Source code\Bloom Room App\Bloom Room App\app\build\generated\res\rs\debug
+com.android.bloomroomapp-packageDebugResources-4 D:\Project\LK502(3)\#2. Source code\Bloom Room App\Bloom Room App\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.android.bloomroomapp-packageDebugResources-5 D:\Project\LK502(3)\#2. Source code\Bloom Room App\Bloom Room App\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.android.bloomroomapp-merged_res-6 D:\Project\LK502(3)\#2. Source code\Bloom Room App\Bloom Room App\app\build\intermediates\merged_res\debug
+com.android.bloomroomapp-debug-7 D:\Project\LK502(3)\#2. Source code\Bloom Room App\Bloom Room App\app\src\debug\res
+com.android.bloomroomapp-main-8 D:\Project\LK502(3)\#2. Source code\Bloom Room App\Bloom Room App\app\src\main\res
+com.android.bloomroomapp-constraintlayout-2.1.4-9 D:\Project\TravelPhotoApp\caches\transforms-3\00f9100d8384c8f2b6b00f7b8d3e05e8\transformed\constraintlayout-2.1.4\res
+com.android.bloomroomapp-navigation-ui-2.7.5-10 D:\Project\TravelPhotoApp\caches\transforms-3\0485bf597aaf87cff77bffa12e2862c5\transformed\navigation-ui-2.7.5\res
+com.android.bloomroomapp-navigation-fragment-2.7.5-11 D:\Project\TravelPhotoApp\caches\transforms-3\07b855d9c88630d93ed665b51a721290\transformed\navigation-fragment-2.7.5\res
+com.android.bloomroomapp-core-runtime-2.2.0-12 D:\Project\TravelPhotoApp\caches\transforms-3\1724d94e57b87a3a27f628c701c8e66e\transformed\core-runtime-2.2.0\res
+com.android.bloomroomapp-jetified-lifecycle-process-2.6.2-13 D:\Project\TravelPhotoApp\caches\transforms-3\1ac3bc0ec4932e827b6eca47df945f87\transformed\jetified-lifecycle-process-2.6.2\res
+com.android.bloomroomapp-slidingpanelayout-1.2.0-14 D:\Project\TravelPhotoApp\caches\transforms-3\1bb751af33043e1c4dd4e85d72814d74\transformed\slidingpanelayout-1.2.0\res
+com.android.bloomroomapp-jetified-viewpager2-1.0.0-15 D:\Project\TravelPhotoApp\caches\transforms-3\1fde9464cd94951b01fc7fd2364628d7\transformed\jetified-viewpager2-1.0.0\res
+com.android.bloomroomapp-jetified-profileinstaller-1.3.0-16 D:\Project\TravelPhotoApp\caches\transforms-3\25599aa454628b13c9e8469230805cdf\transformed\jetified-profileinstaller-1.3.0\res
+com.android.bloomroomapp-jetified-window-1.0.0-17 D:\Project\TravelPhotoApp\caches\transforms-3\2646e99f99899393f988fd5489fb3d77\transformed\jetified-window-1.0.0\res
+com.android.bloomroomapp-jetified-lifecycle-viewmodel-ktx-2.6.2-18 D:\Project\TravelPhotoApp\caches\transforms-3\2b249e0528d0066f433d1f18865daff3\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\res
+com.android.bloomroomapp-drawerlayout-1.1.1-19 D:\Project\TravelPhotoApp\caches\transforms-3\36f7d9df68554ad09ea9cf8b52736506\transformed\drawerlayout-1.1.1\res
+com.android.bloomroomapp-jetified-lifecycle-livedata-core-ktx-2.6.2-20 D:\Project\TravelPhotoApp\caches\transforms-3\456976bcc96a066d33d5d2ddc83d707f\transformed\jetified-lifecycle-livedata-core-ktx-2.6.2\res
+com.android.bloomroomapp-appcompat-1.6.1-21 D:\Project\TravelPhotoApp\caches\transforms-3\4e96a669dc510daef4a5d1405149b65b\transformed\appcompat-1.6.1\res
+com.android.bloomroomapp-transition-1.4.1-22 D:\Project\TravelPhotoApp\caches\transforms-3\5006330184698c5cd0e7a43bc2653940\transformed\transition-1.4.1\res
+com.android.bloomroomapp-jetified-firebase-common-20.4.2-23 D:\Project\TravelPhotoApp\caches\transforms-3\53e7ef081aec67681b307793384656f5\transformed\jetified-firebase-common-20.4.2\res
+com.android.bloomroomapp-lifecycle-livedata-2.6.2-24 D:\Project\TravelPhotoApp\caches\transforms-3\60d06907c96a04207639a07eed5ad57a\transformed\lifecycle-livedata-2.6.2\res
+com.android.bloomroomapp-jetified-activity-ktx-1.8.0-25 D:\Project\TravelPhotoApp\caches\transforms-3\635e2dbaf57ec48f14c5d5b55ecfb871\transformed\jetified-activity-ktx-1.8.0\res
+com.android.bloomroomapp-browser-1.4.0-26 D:\Project\TravelPhotoApp\caches\transforms-3\6995db8ea4502f24bc9e8c2771154440\transformed\browser-1.4.0\res
+com.android.bloomroomapp-jetified-activity-1.8.0-27 D:\Project\TravelPhotoApp\caches\transforms-3\7245d5bd559450f9d0aebdfbeba52eb5\transformed\jetified-activity-1.8.0\res
+com.android.bloomroomapp-jetified-circleimageview-3.1.0-28 D:\Project\TravelPhotoApp\caches\transforms-3\796afda731d292a870a32ee2c09f3f50\transformed\jetified-circleimageview-3.1.0\res
+com.android.bloomroomapp-core-1.9.0-29 D:\Project\TravelPhotoApp\caches\transforms-3\7b6e6e13b86dfe296309140b3f484657\transformed\core-1.9.0\res
+com.android.bloomroomapp-jetified-core-ktx-1.9.0-30 D:\Project\TravelPhotoApp\caches\transforms-3\7d7d6639d1e6b4a416a70c501550f050\transformed\jetified-core-ktx-1.9.0\res
+com.android.bloomroomapp-jetified-MaterialSearchBar-0.8.1-31 D:\Project\TravelPhotoApp\caches\transforms-3\8381bb7e30fcedc46ffd37334fc79e8d\transformed\jetified-MaterialSearchBar-0.8.1\res
+com.android.bloomroomapp-jetified-lifecycle-runtime-ktx-2.6.2-32 D:\Project\TravelPhotoApp\caches\transforms-3\8385d2703ff55f1124917f7d39fc8161\transformed\jetified-lifecycle-runtime-ktx-2.6.2\res
+com.android.bloomroomapp-coordinatorlayout-1.1.0-33 D:\Project\TravelPhotoApp\caches\transforms-3\8b92749d655859e2e53e6ed1654a37bc\transformed\coordinatorlayout-1.1.0\res
+com.android.bloomroomapp-media-1.0.0-34 D:\Project\TravelPhotoApp\caches\transforms-3\8d182d977723e51d680dd77c35e85a05\transformed\media-1.0.0\res
+com.android.bloomroomapp-jetified-play-services-base-18.1.0-35 D:\Project\TravelPhotoApp\caches\transforms-3\91c82bacccaded128762841d5900ef5e\transformed\jetified-play-services-base-18.1.0\res
+com.android.bloomroomapp-jetified-savedstate-1.2.1-36 D:\Project\TravelPhotoApp\caches\transforms-3\976de887524b77a0e77a4f3f17246e5d\transformed\jetified-savedstate-1.2.1\res
+com.android.bloomroomapp-cardview-1.0.0-37 D:\Project\TravelPhotoApp\caches\transforms-3\9efbb8ff2644daf98157777cce98e6a6\transformed\cardview-1.0.0\res
+com.android.bloomroomapp-jetified-fragment-ktx-1.6.2-38 D:\Project\TravelPhotoApp\caches\transforms-3\aa6307f0e1406a525b30ac0fe504189b\transformed\jetified-fragment-ktx-1.6.2\res
+com.android.bloomroomapp-recyclerview-1.1.0-39 D:\Project\TravelPhotoApp\caches\transforms-3\b595e58d202485e1450717dcdbc55e4d\transformed\recyclerview-1.1.0\res
+com.android.bloomroomapp-lifecycle-viewmodel-2.6.2-40 D:\Project\TravelPhotoApp\caches\transforms-3\b7d8ee5f19bfc1c0f539287ca9925de5\transformed\lifecycle-viewmodel-2.6.2\res
+com.android.bloomroomapp-material-1.10.0-41 D:\Project\TravelPhotoApp\caches\transforms-3\b94a05557011f173f1b3e65fb8739de8\transformed\material-1.10.0\res
+com.android.bloomroomapp-jetified-annotation-experimental-1.3.0-42 D:\Project\TravelPhotoApp\caches\transforms-3\c8b9df0080b4fc4a5ef00e31e8ba7840\transformed\jetified-annotation-experimental-1.3.0\res
+com.android.bloomroomapp-jetified-lifecycle-livedata-ktx-2.6.2-43 D:\Project\TravelPhotoApp\caches\transforms-3\cbba0d77d6d8e36213271688e26d85e3\transformed\jetified-lifecycle-livedata-ktx-2.6.2\res
+com.android.bloomroomapp-lifecycle-livedata-core-2.6.2-44 D:\Project\TravelPhotoApp\caches\transforms-3\cc289587777c16bbc2dd76a6f829e595\transformed\lifecycle-livedata-core-2.6.2\res
+com.android.bloomroomapp-fragment-1.6.2-45 D:\Project\TravelPhotoApp\caches\transforms-3\cec8bfbf3392c347d4723c5bddd0010f\transformed\fragment-1.6.2\res
+com.android.bloomroomapp-jetified-emoji2-1.2.0-46 D:\Project\TravelPhotoApp\caches\transforms-3\d4844ecd19c3dd4bc08b3fb7b569b424\transformed\jetified-emoji2-1.2.0\res
+com.android.bloomroomapp-jetified-appcompat-resources-1.6.1-47 D:\Project\TravelPhotoApp\caches\transforms-3\d64b8a371c39d7de8e4aaae73e1c41c4\transformed\jetified-appcompat-resources-1.6.1\res
+com.android.bloomroomapp-jetified-play-services-basement-18.1.0-48 D:\Project\TravelPhotoApp\caches\transforms-3\dc532171d14bc8470af89047925cf060\transformed\jetified-play-services-basement-18.1.0\res
+com.android.bloomroomapp-lifecycle-runtime-2.6.2-49 D:\Project\TravelPhotoApp\caches\transforms-3\dd60465accd4dea45f36363e018db39c\transformed\lifecycle-runtime-2.6.2\res
+com.android.bloomroomapp-jetified-savedstate-ktx-1.2.1-50 D:\Project\TravelPhotoApp\caches\transforms-3\dddcefc9415b1b1974c8e4f8e62c08e0\transformed\jetified-savedstate-ktx-1.2.1\res
+com.android.bloomroomapp-jetified-places-3.3.0-51 D:\Project\TravelPhotoApp\caches\transforms-3\e08ab7480de22d8e427e2034bb7793cf\transformed\jetified-places-3.3.0\res
+com.android.bloomroomapp-jetified-startup-runtime-1.1.1-52 D:\Project\TravelPhotoApp\caches\transforms-3\e32c44bd27568fe8d7d37c302439f8f4\transformed\jetified-startup-runtime-1.1.1\res
+com.android.bloomroomapp-jetified-play-services-maps-18.2.0-53 D:\Project\TravelPhotoApp\caches\transforms-3\e562b0e405578301ccd3855521abe894\transformed\jetified-play-services-maps-18.2.0\res
+com.android.bloomroomapp-navigation-common-2.7.5-54 D:\Project\TravelPhotoApp\caches\transforms-3\e87d5d7aa1252abfa18b9b563a3ab4f9\transformed\navigation-common-2.7.5\res
+com.android.bloomroomapp-jetified-emoji2-views-helper-1.2.0-55 D:\Project\TravelPhotoApp\caches\transforms-3\e9a321f31821dc75ca9cf601cd0d24d1\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.android.bloomroomapp-jetified-lifecycle-viewmodel-savedstate-2.6.2-56 D:\Project\TravelPhotoApp\caches\transforms-3\f5fa3b36adbdd1e119d9fbc9e0344e96\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.android.bloomroomapp-navigation-runtime-2.7.5-57 D:\Project\TravelPhotoApp\caches\transforms-3\fb63755aa6d5edb07b91b2c392631efc\transformed\navigation-runtime-2.7.5\res

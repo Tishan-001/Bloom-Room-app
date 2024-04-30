@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "664991754782",
+    "firebase_url": "https://bloom-room-app-7f0a6-default-rtdb.firebaseio.com",
+    "project_id": "bloom-room-app-7f0a6",
+    "storage_bucket": "bloom-room-app-7f0a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664991754782:android:c8ad9a8d96086221c59c0f",
+        "android_client_info": {
+          "package_name": "com.android.bloomroomapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtDe-MQrt_wYDKUoKkvAFXZ0MA0-h1B5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

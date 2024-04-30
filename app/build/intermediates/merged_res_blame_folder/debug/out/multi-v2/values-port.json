@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.android.bloomroomapp-mergeDebugResources-4:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "D:\\Project\\TravelPhotoApp\\caches\\transforms-3\\4e96a669dc510daef4a5d1405149b65b\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

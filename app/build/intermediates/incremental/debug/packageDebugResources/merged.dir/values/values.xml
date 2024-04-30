@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="cities">
+        <item>Select City</item>
+        <item>Galle</item>
+        <item>Matara</item>
+        <item>Colombo</item>
+        <item>Kandy</item>
+        <item>Jaffna</item>
+    </string-array>
+    <string-array name="province">
+        <item>Select your Province</item>
+        <item>Southern</item>
+    </string-array>
+    <color name="background_color">#ddf0f8</color>
+    <color name="black">#FF000000</color>
+    <color name="bottam_nav_icon_color">#2C3E50</color>
+    <color name="colorAccent">#52422b</color>
+    <color name="colorPrimary">#3f6b1e</color>
+    <color name="colorPrimaryDark">#3f6b1e</color>
+    <color name="colorPrimaryLightPix">#80075e54</color>
+    <color name="colorPrimaryPix">#075e54</color>
+    <color name="gray">#eaeaea</color>
+    <color name="green">#33cc33</color>
+    <color name="grey">#a9a9a9</color>
+    <color name="home_bg">#ddf0f8</color>
+    <color name="joke_score_color">#5C000000</color>
+    <color name="line_color">#d6d6d6</color>
+    <color name="orange">#3f6b1e</color>
+    <color name="price_green_color">#089426</color>
+    <color name="quantum_yellow">#FFFF00</color>
+    <color name="red">#D53B3B</color>
+    <color name="reveive_messege_bubble">#e3e8ec</color>
+    <color name="spinner_color">#FD9E9C9C</color>
+    <color name="spinner_stork_color">#E1E5EE</color>
+    <color name="splash_dot">#DDDFE1</color>
+    <color name="terms_background">#ff859d</color>
+    <color name="text_color">#828384</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whiteoff">#606060</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="back_arrow_dimen">24dp</dimen>
+    <dimen name="category_pading_top_bottom">5dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="gender_radio_button_radius">5dp</dimen>
+    <dimen name="gender_radio_button_stroke_width">1dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="profile_radio_button_height">40dp</dimen>
+    <dimen name="profile_radio_button_marginStartEnd">3dp</dimen>
+    <dimen name="toolbar_icon_size">24dp</dimen>
+    <dimen name="toolbar_text_size">16sp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Bloom Room App</string>
+    <string name="firebase_database_url" translatable="false">https://bloom-room-app-7f0a6-default-rtdb.firebaseio.com</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="gcm_defaultSenderId" translatable="false">664991754782</string>
+    <string name="google_api_key" translatable="false">AIzaSyAtDe-MQrt_wYDKUoKkvAFXZ0MA0-h1B5M</string>
+    <string name="google_app_id" translatable="false">1:664991754782:android:c8ad9a8d96086221c59c0f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAtDe-MQrt_wYDKUoKkvAFXZ0MA0-h1B5M</string>
+    <string name="google_maps_key" ns1:ignore="ExtraTranslation" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyDjBLqLTXocPZzVgQPaSYJVm-CYk0JbHKo</string>
+    <string name="google_storage_bucket" translatable="false">bloom-room-app-7f0a6.appspot.com</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_home">Products</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_orders">My Orders</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="project_id" translatable="false">bloom-room-app-7f0a6</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="title_activity_reports">ReportsActivity</string>
+    <style name="CustomAlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/popup_background</item>
+    </style>
+    <style name="DrawerArrowStyle" parent="@style/Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/black</item>
+    </style>
+    <style name="Theme.BloomRoom" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+    <style name="Theme.BloomRoom.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.BloomRoom.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.BloomRoom.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>
